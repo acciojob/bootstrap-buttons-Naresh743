@@ -1,2 +1,66 @@
+        /* Primary button */
+        #button-1 {
+            background-color: blue;
+            color: white;
+            border: none;
+        }
 
+        /* Outline secondary button */
+        #button-2 {
+            border: 1px solid #6c757d;
+            color: black;
+            background-color: transparent;
+        }
+
+        /* Success large button */
+        #button-3 {
+            background-color: green;
+            color: white;
+            padding: 10px 20px;
+            font-size: 1.25rem;
+        }
+
+        /* Danger small button */
+        #button-4 {
+            background-color: #dc3545;
+            color: white;
+            padding: 5px 10px;
+            font-size: 0.875rem;
+        }
+
+        /* Warning large full-screen width button */
+        #button-5 {
+            background-color: yellow;
+            color: six;
+            padding: 10px 20px;
+            font-size: 1.25rem;
+            width: 100%;
+        }
+
+        /* Disabled info button */
+        #button-6 {
+            background-color: #0dcaf0;
+            color: white;
+            opacity: 0.65;
+            pointer-events: none;
+        }
+
+        /* Light button */
+        #button-7 {
+            background-color: #gray;
+            color: black;
+            border: 1px solid #f8f9fa;
+        }
+
+        /* Link button */
+        #button-8 {
+            background-color: transparent;
+            color: black;
+            text-decoration: none;
+            border: none;
+        }
+
+        #button-8:hover {
+            text-decoration: underline;
+        }
 /* Your CSS Code here. */
